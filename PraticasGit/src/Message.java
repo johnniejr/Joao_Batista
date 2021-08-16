@@ -6,7 +6,7 @@ public class Message
 	Message(String phrase)
 	{
 		this.msg = phrase;
-		System.out.println(msg);
+		System.out.println("A mensagem que construiu essa classe é: " + msg);
 		
 	}
 	
