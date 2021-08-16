@@ -6,6 +6,7 @@ public class HelloWord
 		new Message("Hello World 2");
 		new Message("Hello World 3");
 		new Message("Hello World 4");
+		new Message("Adicionada no terminal");
 		new AlternativeMessage();
 	}
 	
