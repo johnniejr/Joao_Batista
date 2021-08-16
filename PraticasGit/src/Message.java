@@ -7,7 +7,7 @@ public class Message
 	{
 		this.msg = phrase;
 		System.out.println(msg);
-		System.out.println(msg);
+		
 	}
 	
 }
