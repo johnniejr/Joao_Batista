@@ -8,5 +8,5 @@ public class HelloWord
 		new Message("Hello World 4");
 		new AlternativeMessage();
 	}
-
+	
 }
