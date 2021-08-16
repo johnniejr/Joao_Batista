@@ -7,7 +7,7 @@ public class HelloWord
 		new Message("Hello World 3");
 		new Message("Hello World 4");
 		new Message("Adicionada no terminal");
-		new Message("Teste da chave ssh");
+		new Message("Teste da chave ssh 2");
 		new AlternativeMessage();
 	}
 	
