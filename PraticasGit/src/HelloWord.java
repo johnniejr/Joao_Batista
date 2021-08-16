@@ -5,6 +5,7 @@ public class HelloWord
 		new Message("Hello World");
 		new Message("Hello World 2");
 		new Message("Hello World 3");
+		new AlternativeMessage();
 	}
 
 }
