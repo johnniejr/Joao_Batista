@@ -10,4 +10,13 @@ public class Message
 		
 	}
 	
+	public String getMessage()
+	{
+		return msg;
+	}
+	
+	public void setMessage(String phrase)
+	{
+		this.msg = phrase;
+	}
 }
